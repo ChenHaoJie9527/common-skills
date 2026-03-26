@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Effective Go（中文）"
+  short_description: "依据 Effective Go 编写、审查和重构符合 Go 惯用法的代码。"
+  default_prompt: "Use $effective-go to write or review Go code with idiomatic Effective Go practices."
