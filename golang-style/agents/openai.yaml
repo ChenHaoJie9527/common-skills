@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go 风格约定"
+  short_description: "在编写 Go 代码前应用 happy path、错误包装与注释规范。"
+  default_prompt: "Use $golang-style before creating or editing Go files to enforce happy path coding, wrapped errors, sentinel errors, and godoc-style conventions."
