@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Backend Development CN"
+  short_description: "中文 Go 后端技能，覆盖并发、HTTP、数据库、微服务与生产治理。"
+  default_prompt: "Use $go-backend-development-cn to design or implement a production-grade Go backend service."
